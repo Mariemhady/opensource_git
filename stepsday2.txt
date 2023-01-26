@@ -22,5 +22,5 @@ git fetch  --> bring all new branchs to your repo
 
 to delete branch locally --> git branch -d BRANCHNAME
 
-
+git push origin --delete  v1.0.1 --> delete remotly
 
