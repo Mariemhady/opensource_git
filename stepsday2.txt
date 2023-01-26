@@ -1,5 +1,5 @@
 1- for every task create branch 
-2- daily --> git pull origin master 
+2- daily --> git pull origin master *and merge these changes to your branch
 3- when you push your code --> anounce your team 
 4- to merge (integrate) your code --> create pull request 
 5- DON'T push TO MASTER 
