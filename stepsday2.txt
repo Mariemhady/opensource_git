@@ -8,4 +8,7 @@
 7- git checkout -b BRANCHNAME --> create new branch and switsh to it 
 8- git checkout master
 
+To Merge Your Code to MASTER:   
+    git checkout master
+    git merge YOURBRANCH
 
