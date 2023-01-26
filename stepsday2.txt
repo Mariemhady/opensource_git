@@ -1,8 +1,13 @@
-1- for every task create branch 
+1- for every task create branch (be sure git checkout on master) 
 2- daily --> git pull origin master *and merge these changes to your branch
 3- when you push your code --> anounce your team 
-4- to merge (integrate) your code --> create pull request 
+4- to merge (integrate) your code to master --> create pull request 
 5- DON'T push TO MASTER 
+
+    cycle:  1- clone repo  2- create branch  3-switch my new branch 
+            4- make your changes (don't forget to pull master and merge it toy branch) 
+            5- push your branch 
+            6- make pull request 
 
 6- git branch  
 7- git checkout -b BRANCHNAME --> create new branch and switsh to it 
@@ -11,4 +16,11 @@
 To Merge Your Code to MASTER:   
     git checkout master
     git merge YOURBRANCH
+
+
+git fetch  --> bring all new branchs to your repo
+
+to delete branch locally --> git branch -d BRANCHNAME
+
+
 
